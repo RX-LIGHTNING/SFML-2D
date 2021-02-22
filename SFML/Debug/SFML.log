@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  SFML.cpp
+c:\users\роман\source\repos\sfml\sfml\sfml.cpp(70): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\роман\source\repos\sfml\sfml\sfml.cpp(71): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\роман\source\repos\sfml\sfml\sfml.cpp(98): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\роман\source\repos\sfml\sfml\sfml.cpp(99): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\роман\source\repos\sfml\sfml\sfml.cpp(123): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\роман\source\repos\sfml\sfml\sfml.cpp(124): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\роман\source\repos\sfml\sfml\sfml.cpp(150): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SFML.vcxproj -> C:\Users\Роман\source\repos\SFML\Debug\SFML.exe
